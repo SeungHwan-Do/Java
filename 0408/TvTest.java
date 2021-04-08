@@ -6,7 +6,7 @@ class Tv{
 		channel = c; volume = v; onOff = o;}
 
 	void print() {
-		System.out.println("ä��"+channel+"�̰� ����"+volume+"�Դϴ�");}
+		System.out.println("Ã¤³Î"+channel+"ÀÌ°í º¼·ý"+volume+"ÀÔ´Ï´Ù");}
 	
 	}
 public class TvTest {
