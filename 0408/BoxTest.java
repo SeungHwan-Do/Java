@@ -8,8 +8,8 @@ public class BoxTest {
 		
 		Box b = new Box();
 		
-		System.out.println("»óÀÚÀÇ Å©±â: ("+b.width+","+b.height+","+b.depth+")");
+		System.out.println("ìƒìì˜ í¬ê¸°: ("+b.width+","+b.height+","+b.depth+")");
 
 	}
-// ÄÄÆÄÀÏ·¯°¡ ÀÚµ¿À¸·Î µğÆúÆ®»ı¼ºÀÚ¸¦ »ı¼º
+// ì»´íŒŒì¼ëŸ¬ê°€ ìë™ìœ¼ë¡œ ë””í´íŠ¸ìƒì„±ìë¥¼ ìƒì„±
 }
