@@ -6,8 +6,8 @@ class Circle1{
 	double calcArea(){
 		return 3.14*radius*radius;}
 	void print() {
-		System.out.println("¿øÀÇ ¹İÁö¸§: "+radius);
-		System.out.println("¿øÀÇ ¸éÀû: "+calcArea());
+		System.out.println("Å¼Å™Å”Ã‡ Å¡ÃÃÃ¶Â¸Â§: "+radius);
+		System.out.println("Å¼Å™Å”Ã‡ Â¸Ã©Å”Å±: "+calcArea());
 		}
 	}
 	
