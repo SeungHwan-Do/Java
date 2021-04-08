@@ -3,7 +3,7 @@ class Circle2{
 	
 	public Circle2(int radius) {
 		this.radius = radius;
-		//  ÀÎ½ºÅÏ½º º¯¼ö¿Í ¸Å°³º¯¼ö°¡ µ¿ÀÏÇÒ °æ¿ì º¯¼ö ±¸º°À» À§ÇØ this »ç¿ë
+		//  ì¸ìŠ¤í„´ìŠ¤ ë³€ìˆ˜ì™€ ë§¤ê°œë³€ìˆ˜ê°€ ë™ì¼í•  ê²½ìš° ë³€ìˆ˜ êµ¬ë³„ì„ ìœ„í•´ this ì‚¬ìš©
 	}
 	double calcArea() {
 		return 3.14*radius*radius;
@@ -13,7 +13,7 @@ public class CircleTest {
 
 	public static void main(String[] args) {
 		Circle2 c = new Circle2(5);
-		System.out.printf("¿øÀÇ ¸éÀûÀº"+ c.calcArea());
+		System.out.printf("ì›ì˜ ë©´ì ì€"+ c.calcArea());
 
 	}
 
