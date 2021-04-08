@@ -7,8 +7,8 @@ public class MyMathTest {
 
 	public static void main(String[] args) {
 		MyMath obj = new MyMath();
-		System.out.println("Á¤»ç°¢ÇüÀÇ ³ĞÀÌ´Â"+obj.square(10));
-		System.out.println("Á¤»ç°¢ÇüÀÇ ³ĞÀÌ´Â"+obj.square(3.14));
+		System.out.println("ì •ì‚¬ê°í˜•ì˜ ë„“ì´ëŠ”"+obj.square(10));
+		System.out.println("ì •ì‚¬ê°í˜•ì˜ ë„“ì´ëŠ”"+obj.square(3.14));
 	}
 
 }
