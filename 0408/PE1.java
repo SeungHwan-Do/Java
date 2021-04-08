@@ -7,8 +7,8 @@ class Student{
 public class PE1 {
 	public static void main (String[] args) {
 		Student Std1 = new Student("Kim", 20180001, 20);
-		System.out.println("ÇĞ»ıÀÇ ÀÌ¸§:"+Std1.name);
-		System.out.println("ÇĞ»ıÀÇ ÇĞ¹ø:"+Std1.rollno);
-		System.out.println("ÇĞ»ıÀÇ ³ªÀÌ:"+Std1.age);
+		System.out.println("í•™ìƒì˜ ì´ë¦„:"+Std1.name);
+		System.out.println("í•™ìƒì˜ í•™ë²ˆ:"+Std1.rollno);
+		System.out.println("í•™ìƒì˜ ë‚˜ì´:"+Std1.age);
 	}
 }
