@@ -13,6 +13,6 @@ class Circle3{
 public class CircleTest2 {
 	public static void main(String[] args) {
 		Circle3 cc = new Circle3();
-		System.out.printf("¿øÀÇ ¸éÀûÀº %.2f", cc.calcArea());
+		System.out.printf("Å¼Å™Å”Ã‡ Â¸Ã©Å”Å±Å”ÅŸ %.2f", cc.calcArea());
 	}
 }
