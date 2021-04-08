@@ -3,13 +3,13 @@ public class Pizza {
 	int size;
 	String type;
 	
-	public Pizza() { size = 12; type = "½´ÆÛ½´ÇÁ¸²";}
+	public Pizza() { size = 12; type = "Â½Â´Ã†Ã›Â½Â´Ã‡ÃÂ¸Â²";}
 	public Pizza(int s, String t) { size = s; type = t; }
 	public static void main(String[] args) {
 		Pizza obj1 = new Pizza();
 		System.out.println("("+obj1.type+","+obj1.size+",)");
 		
-		Pizza obj2 = new Pizza(24, "Æ÷Å×ÀÌÅä");
+		Pizza obj2 = new Pizza(24, "Ã†Ã·Ã…Ã—Ã€ÃŒÃ…Ã¤");
 		System.out.println("("+obj2.type+","+obj2.size+",)");
 
 	}
