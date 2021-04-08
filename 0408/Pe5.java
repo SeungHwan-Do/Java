@@ -2,14 +2,14 @@ class Account{
 	int balance=0;
 	void withdraw(int amount) {
 		balance -= amount;
-		System.out.print(amount+"¿ø ÀÎÃâ");
+		System.out.print(amount+"ì› ì¸ì¶œ");
 	}
 	void deposit(int amount) {
 		balance += amount;
-		System.out.print(amount+"¿ø ÀúÃà");}
+		System.out.print(amount+"ì› ì €ì¶•");}
 	void account() {System.out.print(balance);
 	}
-	void Account() {System.out.print("»õ·Î¿î °èÁÂ°¡ ¸¸µé¾îÁ³½À´Ï´Ù.");}
+	void Account() {System.out.print("ìƒˆë¡œìš´ ê³„ì¢Œê°€ ë§Œë“¤ì–´ì¡ŒìŠµë‹ˆë‹¤.");}
 	
 }
 public class Pe5 {
